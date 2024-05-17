@@ -1,4 +1,8 @@
 # Sammich System (for Decentraland)
+
+A multiplayer game framework with **procedural gameplay validation**.
+
+
 <img src="https://cdn.publish0x.com/prod/fs/cachedimages/2399835183-199b64a081f182118f4392aa8c9dca9cd9406e260d8f1725cea07491fc3326e2.png">
 
 ## How to add game plane screen to your SDK game or scene in Decentraland
